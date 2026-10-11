@@ -1,0 +1,6 @@
+{
+  "name": "IncidentResponseSimulator",
+  "description": "Interactive Incident Response Simulator & SOC War Room for software engineers and cybersecurity teams, powered by Gemini LLM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
